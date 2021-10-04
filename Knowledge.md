@@ -1,6 +1,6 @@
 # Knowledge
 ## Contents
-* [Knowledge Graph (KG)](#Knowledge Graph (KG))
+* ["Knowledge Graph (KG)"](#"Knowledge Graph (KG)")
     * [Constrain](#KG as Constrain)
       - [Pre-Processing](#Pre-Processing)
       - [In-Processing](#In-Processing)
@@ -11,7 +11,7 @@
 * Pending List
 
 
-
+-------------------------------
 
 ### Knowledge Graph (KG)
 
