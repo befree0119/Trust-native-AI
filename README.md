@@ -5,7 +5,7 @@ Trust-native AI focus on incorporating structural information into deep learning
 * Constraint Interface [Details](ConstraintInterface.md "The interface for trust-Native-AI framework to obtain domain-specific or universal trustworthy constraints, providing consistency representation, constraint resolution and other functions")
   * Constraint Resolution
     * Domain
-      * <details><summary>Knowledge & Causality Discover (Constraint)</summary>
+      * <details><summary>Knowledge & Causality Discover (Constrain)</summary>
          - Knowledge form Neural Language<br>
          - Knowledge Graph Discover<br>
          - Causality Discover
@@ -16,19 +16,19 @@ Trust-native AI focus on incorporating structural information into deep learning
     * Universal
   * Consistency Representation
 
-* Knowledge [Details](Knowledge.md "As one of the base solutions of the trust-Native-AI framework, providing solutions for different forms of knowledge as 'Constraint' and 'Metric' in the trustworthy AI process")
+* Knowledge [Details](Knowledge.md "As one of the base solutions of the trust-Native-AI framework, providing solutions for different forms of knowledge as 'Constrain' and 'Metric' in the trustworthy AI process")
   * <details><summary>Knowledge Graph (KG)</summary>
-     - Constraint<br>
+     - Constrain<br>
      - Metric
     </details>
   * <details><summary>Domain Specialized Knowledge (DSK)</summary>
-     - Metric
+     - Constrain
     </details>
   * Supplementary
 
 * Causality [Details](Causality.md "As one of the base solutions for the trust-Native-AI framework, providing solutions for introducing causal inference methods and structural causation into the deep learning process")
   * SCM
-    * Constraint
+    * Constrain
       * <details><summary>Intervention</summary>
          - Deconfounder<br>
          - Track prediction & Reasoning
