@@ -24,7 +24,7 @@ Trust-native AI focus on incorporating structural information into deep learning
   * <details><summary>Domain Specialized Knowledge (DSK)</summary>
      - Constrain
     </details>
-  * Supplementary
+  * Pending List
 
 * Causality [Details](Causality.md "As one of the base solutions for the trust-Native-AI framework, providing solutions for introducing causal inference methods and structural causation into the deep learning process")
   * SCM
@@ -38,4 +38,4 @@ Trust-native AI focus on incorporating structural information into deep learning
         </details>
     * Metric
       * Counterfactual
-  * Supplementary
+  * Pending List
