@@ -1,6 +1,6 @@
 # Knowledge
 ## Contents
-* ["Knowledge Graph (KG)"](#"knowledge-graph-(kg)")
+* [Knowledge Graph (KG)](#knowledge-graph-(kg))
     * [Constrain](#kg-as-constrain)
       - [Pre-Processing](#Pre-Processing)
       - [In-Processing](#In-Processing)
@@ -23,7 +23,9 @@
 
 #### KG as Metric
 
+----------------------
 ### Domain Specialized Knowledge (DSK)
 #### DSK as Constrain
 
+-----------------------
 ### Supplementary
