@@ -1,13 +1,13 @@
 # Knowledge
 ## Contents
-* ["Knowledge Graph (KG)"](#"Knowledge Graph (KG)")
-    * [Constrain](#KG as Constrain)
+* ["Knowledge Graph (KG)"](#"knowledge-graph-(kg)")
+    * [Constrain](#kg-as-constrain)
       - [Pre-Processing](#Pre-Processing)
       - [In-Processing](#In-Processing)
       - [Post-Processing](#Post-Processing)
-    * [Metric](#KG as Metric)
-* [Domain Specialized Knowledge (DSK)](#Domain Specialized Knowledge (DSK))
-    * [Constrain](#DSK as Constrain)
+    * [Metric](#kg-as-metric)
+* [Domain Specialized Knowledge (DSK)](#domain-specialized-knowledge-(dsk))
+    * [Constrain](#dsk-as-constrain)
 * Pending List
 
 
